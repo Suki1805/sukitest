@@ -1,0 +1,188 @@
+.body{
+    height:5000px;
+    width:5000px;
+    margin-left:100px;
+}
+
+.header{
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    
+    
+}
+
+.img1{
+width:30px;
+border-radius:10px;
+
+
+
+}
+.img2{
+    width:30px;
+    border-radius:10px;
+    
+    
+}
+
+.first-section{
+    display: flex;
+    align-items: center;
+    
+
+    
+}
+
+
+.youtube{
+   
+    font-family:Arial;    
+    font-weight:bold;    
+    position:relative;
+   
+}
+.super{
+    position:absolute;
+    top:-5px;
+    left:70px;
+    font-size:10px;
+}
+
+.mid-section
+{
+
+    flex: 1;
+  margin-left: 70px;
+  margin-right: 35px;
+  max-width: 500px;
+  display: flex;
+  align-items: center;
+   
+    
+
+}
+
+.search{
+    border-radius:20px;
+    flex:1;
+    padding-top:10px;
+    padding-left:10px;
+    padding-bottom:10px;
+    border-width:2px;
+    border-style:solid;
+    max-width:400px;
+  
+    
+}
+.searchbtn{
+   
+    width:52px;
+    height:36px;   
+    border-radius:0 20px 20px 0;
+    margin-left:-53px;    
+    border:none;
+}
+.img3{
+    height:20px;
+    width: 20px;
+    
+}
+.mic
+{
+    height:40px;
+    width:40px;
+    border-radius:25px;
+    
+    
+    
+    
+}
+
+.last-section
+{
+    
+    width: 180px;
+    margin-right: 20px;
+    display: flex;
+    align-items: center;
+    
+    flex-shrink: 0;
+    
+}
+.signin{
+    background-color:rgba(0, 106, 255, 0.934);
+    color:white;
+    font-weight:bold;
+    height:40px;
+    width:60px;
+}
+
+.container1
+{
+ display:flex;
+margin-left:20px;
+     
+ 
+}
+
+.align{
+    display:flex;
+    flex-direction: column;
+}
+
+.vidx{
+
+
+
+margin-left:110px;
+margin-top:60px;
+}
+
+
+.prflicn1{
+    width:30px;
+    height:30px;
+    border-radius:20px;   
+    
+}
+.grid3
+{
+    
+    display:flex;
+        
+   
+  
+    
+}
+.gridsub
+{
+    margin-left:10px;
+    
+}
+
+
+.join{
+    background-color: white;
+    color:black;
+    border-radius:15px;
+    margin-left:20px;
+   
+    cursor:pointer;
+    
+}
+
+
+.Subscribe{
+    background-color: black;
+    color:white;
+    border-radius:20px;
+    margin-left:20px;
+    
+}
+
+.join:hover{
+   background-color:lightgrey; 
+}
